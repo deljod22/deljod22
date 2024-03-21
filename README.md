@@ -1,6 +1,6 @@
 # About Me
 
--👋 Hi, I’m @deljod22
+- 👋 Hi, I’m @deljod22
 - 👀 I’m interested in games, books, movies, and code ;)
 - 🌱 I’m currently learning JavaScript, CSS, HTML, Java
 - 💞️ I’m looking to collaborate on ...
